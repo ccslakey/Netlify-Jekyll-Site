@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "This is a Redirect to google"
+date:   2017-04-11 9:00:00 -0800
+categories: netlify responses
+---
+
+Hello World
