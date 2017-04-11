@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-11T09:11:03-07:00</updated><id>http://localhost:4000/</id><title type="html">Netlify Responses Site</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Why SSL/HTTPS is important to me</title><link href="http://localhost:4000/netlify/responses/2017/04/11/why-is-ssl-important.html" rel="alternate" type="text/html" title="Why SSL/HTTPS is important to me" /><published>2017-04-11T10:00:00-07:00</published><updated>2017-04-11T10:00:00-07:00</updated><id>http://localhost:4000/netlify/responses/2017/04/11/why-is-ssl-important</id><content type="html" xml:base="http://localhost:4000/netlify/responses/2017/04/11/why-is-ssl-important.html">&lt;p&gt;SSL is important to me for several reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SSL ensures that my personal information is encrypted as it travels across the internet&lt;/li&gt;
+  &lt;li&gt;Seeing an SSL certificate on a site lets me know that I can trust it with my information.&lt;/li&gt;
+  &lt;li&gt;Without SSL, any computer/server my information passes through can see my unencrypted information. Credit cards, login info, and more can all be accessed. Yikes!&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">SSL is important to me for several reasons:</summary></entry><entry><title type="html">Favorite and Least Favorite Support Tasks!</title><link href="http://localhost:4000/netlify/responses/2017/04/11/support-tasks.html" rel="alternate" type="text/html" title="Favorite and Least Favorite Support Tasks!" /><published>2017-04-11T10:00:00-07:00</published><updated>2017-04-11T10:00:00-07:00</updated><id>http://localhost:4000/netlify/responses/2017/04/11/support-tasks</id><content type="html" xml:base="http://localhost:4000/netlify/responses/2017/04/11/support-tasks.html">&lt;p&gt;These responses are based on &lt;a href=&quot;https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6&quot;&gt;this&lt;/a&gt; list of possible tasks.&lt;/p&gt;
+
+&lt;h3 id=&quot;five-favorite-tasks&quot;&gt;Five Favorite tasks&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create video tutorials to help teach users a specific feature or use case&lt;/p&gt;
+
+    &lt;p&gt;When I’m learning how to use a new technology or searching for programming inspiration, I often look to online tutorials for a baseline of how to use, and what kind of things that technology is good for building. Video tutorials make this kind of learning more accessible than a simple blog post might, if done well.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Debug a customer’s build using a programming language and framework that you’ve never seen before&lt;/p&gt;
+
+    &lt;p&gt;I have experience with Javascript, Ruby, and Python, but I also have interest in other programming languages and concepts that I know I’ve only been able to scratch the surface of. Being able to work in a new programming language is often an enjoyable treat and I feel I have the flexibility to work in strongly typed or functional programming languages such as C#, Java, or Elixir.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Write and maintain documentation for our software and blog posts for our website.&lt;/p&gt;
+
+    &lt;p&gt;Documentation is one of the most important pieces of infrastructure for a company. Good docs not only make a technology more accessible, they also improve the likelihood of people sharing a technology with their friends or colleagues.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Analyze thousands of support tickets to spot trends to improve our product&lt;/p&gt;
+
+    &lt;p&gt;Analyzing large amounts of information can be daunting for many, but I appreciate the opportunity to improve a product on a large scale. It makes sense that if there are hundreds or thousands of customers with the same or similar issue, a new approach or solution might fix many of these issues at once. When I see issues like these as a programmer, my instinct is always to fix the larger issue, rather than solving many individual problems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Submit bug reports and potentially bug fixes to closed and open source projects that Netlify maintains on GitHub&lt;/p&gt;
+
+    &lt;p&gt;I’ve always liked squashing bugs and solving edge cases. This often requires a deep dive into what is causing the bug, and submitting a pull request for a bug is always a great feeling!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;five-least-favorite-tasks&quot;&gt;Five Least Favorite Tasks&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Respond to 60+ support requests via email or chat every day&lt;/p&gt;
+
+    &lt;p&gt;This sounds painful! While I consider myself solid at multitasking, I prefer to focus on one or several issues per day. On the other hand, if the focus of this task is more for quicker issues or directing larger issues to other staff, I could see myself keeping up with this task.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find and recruit teammates for the support team&lt;/p&gt;
+
+    &lt;p&gt;I’m not much of a recruiter - a big part of which is selling yourself and the company to someone who likely already has a job they like, and I’ve never been a great salesperson.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Manage a support team&lt;/p&gt;
+
+    &lt;p&gt;I’m also not much of a manager. I know I’d be fine with onboarding new teammates or helping others with an issue they’re having, but it would take me at least a year or two working at Netlify to be comfortable managing others.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Work with prospective customers to explain our service and the pricing model&lt;/p&gt;
+
+    &lt;p&gt;It’s already explained on your website, so it feels like self-explanatory. On the one hand, I feel like I’d be great at explaining pricing levels and features included, but on the other hand I feel like I would be responsible for selling potential customers on services.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Receive occasional phone calls requesting support from our highest-value customers&lt;/p&gt;
+
+    &lt;p&gt;Although I’d feel comfortable with this after a while, I’d be nervous about talking on the phone with mission critical clients in my first few months. For me, experience === comfort.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">These responses are based on this list of possible tasks.</summary></entry><entry><title type="html">My favorite thing about providing tech support</title><link href="http://localhost:4000/netlify/responses/2017/04/11/providing-support.html" rel="alternate" type="text/html" title="My favorite thing about providing tech support" /><published>2017-04-11T10:00:00-07:00</published><updated>2017-04-11T10:00:00-07:00</updated><id>http://localhost:4000/netlify/responses/2017/04/11/providing-support</id><content type="html" xml:base="http://localhost:4000/netlify/responses/2017/04/11/providing-support.html">&lt;p&gt;My favorite aspect of providing technical support is difficult to decide on. On the one hand, I enjoy making someone’s day easier by providing them with a fix. I also greatly enjoy the process of bug-fixing, which often involves speaking with the client to understand the issue, and then digging through code to track logic and find where the issue resides. My favorite aspect is probably the understanding that goes into the actual fix, and the “journey”, so to speak that one takes to resolve an issue.&lt;/p&gt;</content><author><name></name></author><summary type="html">My favorite aspect of providing technical support is difficult to decide on. On the one hand, I enjoy making someone’s day easier by providing them with a fix. I also greatly enjoy the process of bug-fixing, which often involves speaking with the client to understand the issue, and then digging through code to track logic and find where the issue resides. My favorite aspect is probably the understanding that goes into the actual fix, and the “journey”, so to speak that one takes to resolve an issue.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/04/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-04-10T23:47:18-07:00</published><updated>2017-04-10T23:47:18-07:00</updated><id>http://localhost:4000/jekyll/update/2017/04/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/04/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
